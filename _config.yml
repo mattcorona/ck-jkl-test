@@ -1,3 +1,4 @@
 name: Corona Test Jekyll Site
 markdown: redcarpet
 pygments: true
+baseurl: /ck-jkl-test
