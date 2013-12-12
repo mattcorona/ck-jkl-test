@@ -1,7 +1,3 @@
----
-layout: default
-title: Box 1
----
 
 # some stuff here
 ## and some more
